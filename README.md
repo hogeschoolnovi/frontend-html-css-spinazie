@@ -11,7 +11,7 @@ Om je tijd te besparen staat onderaan de opdrachtbeschrijving ook de platte teks
 
 ## Stappenplan
 1. Begin bij `index.html`. Zorg dat de titel _"Volkorenlasagne met spinazie en linzen"_ bovenaan de browser komt te staan
-2. Voeg de titel, subtitel en afbeelding in. De afbeelding maak je `800px` breed.
+2. Voeg de titel, subtitel en afbeelding in. De afbeelding maak je `800px` breed. _Tip_: zien de elementen er niet uit zoals verwacht? Zoek dan eens op internet een voorbeeld van het gebruik van dat element op, en check of je geen foutjes hebt gemaakt in jouw schrijfwijze.
 3. Maak de lijst met ingredienten en uitgelichte ingredienten. Zorg ervoor dat ook de afbeeldingen van de uitgelichte afbeelingen _onder_ elkaar komen te staan.
 4. Maak het stappenplan voor het bereiden van het gerecht waarbij het snijden van de ingredienten in een unordered list staat.
 5. In de footer kun je het contactformulier plaatsen. Als form action kun je voor nu Als form action mag je voor nu `http://www.voorbeeld.nl/review.php` gebruiken. Zorg ervoor dat het vinkje bij 'Schrijf me in voor de nieuwsbrief' al aangevinkt staat.
