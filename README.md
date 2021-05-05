@@ -60,4 +60,4 @@ Je kunt de lasagne 1 dag van tevoren maken tot en met het afbakken in de oven. B
 | eiwit         | 33 g      |  
 | vet           | 26 g      |
 
-* _Let op_: deze tabel is in markdown geschreven. Wanneer je dit in HTML maakt, zal de tabel er net ietsje anders uitzien.
+_*Let op_: deze tabel is in markdown geschreven. Wanneer je dit in HTML maakt, zal de tabel er net ietsje anders uitzien.
