@@ -1,9 +1,11 @@
 # Opdrachtbeschrijving
 
-Je gaat een pagina opbouwen met HTML die er **exact** zo uit ziet zoals het voorbeeld hieronder. De gebruikte afbeeldingen kun je terugvinden in de map `assets`. Om je tijd te besparen staat onderaan de opdrachtbeschrijving ook de platte tekst, zodat je deze niet over hoeft te typen.
+Je gaat een pagina opbouwen met HTML die er **exact** zo uit ziet zoals het voorbeeld hieronder. De gebruikte afbeeldingen kun je terugvinden in de map `assets`. De pagina's waarin jij jouw HTML gaat schrijven, kun je vinden in de map `pages`. **Je hoeft dus zelf geen nieuwe bestanden aan te maken!** 
+
+Om je tijd te besparen staat onderaan de opdrachtbeschrijving ook de platte tekst, zodat je deze niet over hoeft te typen.
 
 ## Randvoorwaarden
-* Je mag alleen HTML gebruiken (geen CSS) 
+* Je mag alleen HTML gebruiken (dus geen CSS!) 
 * Je mag de de bestanden niet verplaatsen
 * Gebruik de afbeeldingen uit de `assets` map
 
@@ -13,7 +15,7 @@ Je gaat een pagina opbouwen met HTML die er **exact** zo uit ziet zoals het voor
 3. Maak de lijst met ingredienten en uitgelichte ingredienten. Zorg ervoor dat ook de afbeeldingen van de uitgelichte afbeelingen _onder_ elkaar komen te staan.
 4. Maak het stappenplan voor het bereiden van het gerecht waarbij het snijden van de ingredienten in een unordered list staat.
 5. In de footer kun je het contactformulier plaatsen. Als form action kun je voor nu Als form action mag je voor nu `http://www.voorbeeld.nl/review.php` gebruiken. Zorg ervoor dat het vinkje bij 'Schrijf me in voor de nieuwsbrief' al aangevinkt staat.
-6. Maak een link naar de pagina `voedingswaarden.html` en zorg dat hij opent in een nieuw venster. Neem de tabel uit de dummy tekst en schrijf dit om naar HTML.
+6. Maak een link naar de pagina `voedingswaarden.html` en zorg dat hij opent in een nieuw venster. Neem de tabel uit de dummy tekst en schrijf dit om naar HTML. Dit zal er ietsje anders uitzien dan de tabel uit de opdrachtbeschrijving, omdat die tabel in _markdown_ is geschreven.
 
 ## Hoe de pagina eruit komt te zien
 
