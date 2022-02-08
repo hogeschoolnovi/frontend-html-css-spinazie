@@ -2,9 +2,129 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Volkorenlasagne met spinazie en linzen</title>
 </head>
 <body>
+<article>
+    <section class="page header">
+        <h1>Volkorenlasagne met spinazie en linzen</h1>
+        <h2>Met makkelijke aanpassingen zet je zo een gezonde lasagne op tafel</h2>
+        <img src="../assets/lasagne-spinazie.jpg">
+    </section>
+
+    <section class="page list">
+        <h3>Ingredienten</h3>
+        <ul>
+            <li>1 middelgrote ui</li>
+            <li>2 tenen knoflook</li>
+            <li>400 g champignons</li>
+            <li>2 el milde olijfolie</li>
+            <li>750 g diepvries fijngesneden spinazie</li>
+            <li>2 el gedroogde Italiaanse kruiden</li>
+            <li>200 g zuivelspread light</li>
+            <li>400 g linzen in blik</li>
+            <li>12 volkoren lasagne bladen</li>
+            <li>150 g geraspte 30+ kaas</li>
+        </ul>
+    </section>
+
+    <section class="page featured-list">
+        <h3>Uitgelichte ingredienten</h3>
+        <img src="../assets/spinazie.png">
+        <p>Spinazie is erg gezond</p>
+
+        <img src="../assets/kaas.jpeg">
+        <p>Kaas is vooral erg lekker</p>
+
+        <!-- Als ik een webpagina start met Phpstorm moeten de links vanuit de root map.-->
+        <p>Klik <a href="/frontend-html-css-spinazie/pages/voedingswaarden.html">hier</a> voor de voedingswaarde</p>
+    </section>
+
+    <section class="page how-to">
+        <h3>Bereiden</h3>
+        <ol>
+            <li>Verwarm de oven voor op 180 °C.</li>
+            <li>
+                Snijd de volgende ingredienten:
+                <ul>
+                    <li>Snipper de ui.</li>
+                    <li>Snijd de knoflook fijn.</li>
+                    <li>Snijd de champignons in plakjes.</li>
+                </ul>
+            </li>
+            <li>Verhit de olie in een hapjespan en bak de ui en champignons 3 min. op hoog vuur. Voeg de knoflook,
+                spinazie en Italiaanse kruiden toe en verwarm 7 min. op middelhoog vuur mee. Roer regelmatig.
+            </li>
+            <li>Voeg de zuivelspread toe en verwarm 1 min. mee. Breng de groentesaus op smaak met peper en eventueel
+                zout. Doe ondertussen de linzen in een vergiet en spoel af onder koud stromend water. Laat uitlekken en
+                voeg toe aan de groentesaus.
+            </li>
+            <li>Schep 2 lepels groentesaus op de bodem van de ovenschaal. Bedek achtereenvolgens met ⅓ van de
+                lasagnebladen, ⅓ van de rest van de groentesaus en de kaas. Herhaal dit nog 2 keer en eindig met de rest
+                van de kaas. Breng op smaak met peper.
+            </li>
+            <li>Bak de lasagne in het midden van de oven in ca. 40 min. gaar. Dek af met aluminiumfolie als de lasagne
+                te donker wordt.
+            </li>
+        </ol>
+
+        <p><strong>Bereidingstip:</strong> Je kunt de lasagne 1 dag van tevoren maken tot en met het afbakken in de
+            oven. Bewaar afgedekt in de koelkast en laat tijdens het voorverwarmen van de oven op kamertemperatuur
+            komen.</p>
+
+    </section>
+
+    <section class="page form">
+        <h3>Bedankt voor het lezen van dit recept. Laat ons weten wat je ervan vond!</h3>
+
+        <form>
+            <fieldset>
+                <legend>Je gegevens</legend>
+                <label for="name">Naam:</label>
+                <input type="text" id="name" name="naam" placeholder="Je naam">
+
+                <br><br>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" placeholder="Je email">
+            </fieldset>
+            <fieldset>
+                <legend>Jouw review</legend>
+                <label for="choice">Hoe heb je dit recept gevonden?</label>
+                <select name="choice" id="choice">
+                    <option value="anders">Anders</option>
+                    <option value="novi">Novi</option>
+                    <option value="internet">Internet</option>
+                </select>
+                <br>
+
+                <p>Zou je dit recept willen uitproberen?</p>
+                <input type="radio" id="no" name="to-try" value="no">
+                <label for="no">Nee</label>
+
+                <input type="radio" id="yes" name="to-try" value="yes">
+                <label for="yes">Ja</label>
+
+                <input type="radio" id="maybe" name="to-try" value="maybe">
+                <label for="maybe">Misschien</label>
+
+                <br><br>
+
+                <label for="textarea">Opmerkingen:</label>
+                <br>
+                <textarea id="textarea" rows="4" cols="40" placeholder="Wat vond je van het recept?" ></textarea>
+                <br>
+
+                <input type="checkbox" id="newsletter-opt-in" name="vehicle3" value="Boat">
+                <label for="newsletter-opt-in">Schrijf me in voor de nieuwsbrief</label>
+
+                <br><br>
+
+                <input type="submit" value="Versturen">
+            </fieldset>
+        </form>
+    </section>
+</article>
 
 </body>
 </html>
