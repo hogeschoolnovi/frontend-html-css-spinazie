@@ -9,13 +9,15 @@ Om je tijd te besparen staat onderaan de opdrachtbeschrijving ook de platte teks
 * Je mag de de bestanden niet verplaatsen
 * Gebruik de afbeeldingen uit de `assets` map
 
+_Tip_: lukt het niet, of zien de elementen er niet uit zoals verwacht? Zoek dan eens op internet een _voorbeeld_ van het gebruik van dat element op en check of je geen foutjes hebt gemaakt in jouw schrijfwijze.
+
 ## Stappenplan
-1. Begin bij `index.html`. Zorg dat de titel _"Volkorenlasagne met spinazie en linzen"_ in het browser-tabblad komt te staan
-2. Voeg de titel, subtitel en afbeelding in. De afbeelding maak je `800px` breed. _Tip_: zien de elementen er niet uit zoals verwacht? Zoek dan eens op internet een voorbeeld van het gebruik van dat element op, en check of je geen foutjes hebt gemaakt in jouw schrijfwijze.
-3. Maak de lijst met ingredienten en uitgelichte ingredienten. Zorg ervoor dat ook de afbeeldingen van de uitgelichte afbeelingen _onder_ elkaar komen te staan.
-4. Maak het stappenplan voor het bereiden van het gerecht waarbij het snijden van de ingredienten in een unordered list staat.
-5. In de footer kun je het contactformulier plaatsen. Als form action kun je voor nu Als form action mag je voor nu `http://www.voorbeeld.nl/review.php` gebruiken. Zorg ervoor dat het vinkje bij 'Schrijf me in voor de nieuwsbrief' al aangevinkt staat.
-6. Maak een link naar de pagina `voedingswaarden.html` en zorg dat hij opent in een nieuw venster. Neem de tabel uit de dummy tekst en schrijf dit om naar HTML. Dit zal er ietsje anders uitzien dan de tabel uit de opdrachtbeschrijving, omdat die tabel in _markdown_ is geschreven.
+1. Begin bij `index.html`. Zorg ook dat de titel _"Volkorenlasagne met spinazie en linzen"_ bovenaan in het browser-tabblad komt te staan!
+2. Voeg de titel, subtitel en afbeelding in. De afbeelding maak je `800px` breed met behulp van een HTML-attribuut.
+3. Maak de lijst met ingredienten en uitgelichte ingredienten. Zorg ervoor dat ook de afbeeldingen van de uitgelichte afbeelingen _onder_ elkaar komen te staan, met een klein beetje witruimte aan de zijkant. _Tip:_ Google eens naar een `<figure>`-element en hoe je deze kunt gebruiken.
+4. Maak het stappenplan voor het bereiden van het gerecht waarbij het snijden van de ingredienten in een _unordered list_ staat.
+5. In de footer kun je het contactformulier plaatsen. Je hoeft geen `onsubmit`-attribuut te gebruiken. Zorg ervoor dat het vinkje bij 'Schrijf me in voor de nieuwsbrief' al aangevinkt staat. _Tip:_ Benieuwd hoe je die lijn om de elementen heen krijgt? Google eens naar een `<fieldset>`-element en hoe je deze kunt gebruiken.
+6. Maak een link naar de pagina `voedingswaarden.html` en zorg dat hij opent in een nieuw venster. Neem de tabel uit de dummy tekst en schrijf dit om naar HTML. Dit zal er ietsje anders uitzien dan de tabel uit de opdrachtbeschrijving, omdat die tabel in _markdown_ is geschreven. Dat is dus geen probleem.
 
 ## Hoe de pagina eruit komt te zien
 
@@ -60,4 +62,4 @@ Je kunt de lasagne 1 dag van tevoren maken tot en met het afbakken in de oven. B
 | eiwit         | 33 g      |  
 | vet           | 26 g      |
 
-_*Let op_: deze tabel is in markdown geschreven. Wanneer je dit in HTML maakt, zal de tabel er net ietsje anders uitzien.
+_*Let op_: deze tabel is in markdown geschreven. Wanneer je dit in HTML maakt, zal de tabel geen styling hebben.
