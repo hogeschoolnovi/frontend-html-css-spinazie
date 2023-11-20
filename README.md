@@ -6,7 +6,7 @@ Om je tijd te besparen staat onderaan de opdrachtbeschrijving ook de platte teks
 
 ## Randvoorwaarden
 * Je mag alleen HTML gebruiken (dus geen CSS!) 
-* Je mag de de bestanden niet verplaatsen
+* Je mag de bestanden niet verplaatsen
 * Gebruik de afbeeldingen uit de `assets` map
 
 _Tip_: lukt het niet, of zien de elementen er niet uit zoals verwacht? Zoek dan eens op internet een _voorbeeld_ van het gebruik van dat element op en check of je geen foutjes hebt gemaakt in jouw schrijfwijze.
